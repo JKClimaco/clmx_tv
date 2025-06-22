@@ -1,4 +1,4 @@
-<!DOCTYPE html lang="en">
+<html lang="en">
     <head>
         <title> One Page Wonder - Start Bootstrap Template </title>
         <meta charset="utf-8" />
